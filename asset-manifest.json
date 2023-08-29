@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/pizza-paradiso/static/css/main.12bc57e7.css",
+    "main.js": "/pizza-paradiso/static/js/main.ac473da4.js",
+    "Cart.js": "/pizza-paradiso/static/js/Cart.b55cdaea.chunk.js",
+    "FullPizza.js": "/pizza-paradiso/static/js/FullPizza.a2f4ae60.chunk.js",
+    "NotFound.js": "/pizza-paradiso/static/js/NotFound.b6f93018.chunk.js",
+    "static/media/empty-cart.png": "/pizza-paradiso/static/media/empty-cart.db905d1f4b063162f25b.png",
+    "static/media/pizza-logo.svg": "/pizza-paradiso/static/media/pizza-logo.56ac87032d8f6fdf863326acd06c0d97.svg",
+    "index.html": "/pizza-paradiso/index.html",
+    "main.12bc57e7.css.map": "/pizza-paradiso/static/css/main.12bc57e7.css.map",
+    "main.ac473da4.js.map": "/pizza-paradiso/static/js/main.ac473da4.js.map",
+    "Cart.b55cdaea.chunk.js.map": "/pizza-paradiso/static/js/Cart.b55cdaea.chunk.js.map",
+    "FullPizza.a2f4ae60.chunk.js.map": "/pizza-paradiso/static/js/FullPizza.a2f4ae60.chunk.js.map",
+    "NotFound.b6f93018.chunk.js.map": "/pizza-paradiso/static/js/NotFound.b6f93018.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12bc57e7.css",
+    "static/js/main.ac473da4.js"
+  ]
+}
